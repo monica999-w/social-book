@@ -11,12 +11,12 @@ body{
 }  
 
   nav{
-      width: 308px;
+      width: 338px;
     display: block;
     align-items: center;
     justify-content: space-between;
     background: url("images/background1.jpg") ;
-    padding: 160px 39%;
+    padding: 190px 39%;
       position: relative;
       left: 0px;
       top:0px
@@ -26,7 +26,7 @@ body{
     margin-right: 145px;
     align-items: center;
     position: relative;
-    top :-80px;
+    top :-60px;
     left:0px;
 
 }
